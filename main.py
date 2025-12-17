@@ -37,4 +37,4 @@ def send(cc, last, username, time_taken):
 Check by @{Chuckyforu4}
 𝗕𝗼𝘁 𝗯𝘆: @Chuckyforu4
 """
-    return msg
+    return msg1
