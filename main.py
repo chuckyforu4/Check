@@ -34,7 +34,7 @@ def send(cc, last, username, time_taken):
 𝗕𝗔𝗡𝗞 ➜ {bank}                
 𝗙𝗟𝗔𝗚 ➜ {emj}                 
 
-Check by @{username}
-𝗕𝗼𝘁 𝗯𝘆: @shumyathtay
+Check by @{Chuckyforu4}
+𝗕𝗼𝘁 𝗯𝘆: @Chuckyforu4
 """
     return msg
